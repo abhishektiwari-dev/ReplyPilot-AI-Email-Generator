@@ -2,7 +2,7 @@
 
 ### AI Reply Button
 
-![AI Reply Button](extention.png)
+![AI Reply Button](extention.png.png)
 
 ### Generating Reply
 
