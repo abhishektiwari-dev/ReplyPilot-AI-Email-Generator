@@ -1,0 +1,12 @@
+# Environment variables / Secrets
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Windows system files
+Thumbs.db
+
+# Logs
+*.log

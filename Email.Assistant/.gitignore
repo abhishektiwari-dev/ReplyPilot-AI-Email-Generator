@@ -1,0 +1,48 @@
+# Build files
+
+target/
+
+# Environment variables / API secrets
+
+.env
+.env.*
+!.env.example
+
+# Logs
+
+*.log
+logs/
+
+### STS / Eclipse
+
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### NetBeans
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code
+
+.vscode/
+
+### OS Files
+
+Thumbs.db

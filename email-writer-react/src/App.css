@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background: #000000c7;
+  font-family: Arial, sans-serif;
+}
+
+.MuiContainer-root {
+  background: rgb(253, 253, 253);
+  margin-top: 30px;
+  padding: 35px !important;
+  border-radius: 15px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #000c02;
+  font-weight: bold !important;
+  margin-bottom: 30px !important;
+}
+
+.MuiButton-contained {
+  background: #670ad2 !important;
+  color: white !important;
+  padding: 14px !important;
+  border-radius: 8px !important;
+}
+
+.MuiButton-contained:hover {
+  background: #1d4ed8 !important;
+}
+
+.MuiButton-outlined {
+  color: #2563eb !important;
+  border-color: #2563eb !important;
+}
